@@ -2,4 +2,4 @@
 <p>Realizado na semana Javascript e o resultado é esse</p>
 
 <hr>
-<img src="DesgnBoard">
+<img src="/image/DesgnBoard.gif">
